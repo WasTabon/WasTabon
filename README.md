@@ -11,7 +11,7 @@
 ---
 
 ## 📈 GitHub Stats:
-![Igor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=твое_имя&show_icons=true&theme=radical)
+![Igor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WasTabon&show_icons=true&theme=radical)
 
 ---
 
