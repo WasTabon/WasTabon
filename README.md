@@ -21,11 +21,13 @@
 
 ## 📈 GitHub Stats:
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=WasTabon&show_icons=true&theme=radical" style="margin: 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WasTabon&theme=radical" style="margin: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WasTabon&layout=compact&theme=radical" style="margin: 10px;" />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WasTabon&theme=radical" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WasTabon&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WasTabon&theme=radical&utcOffset=3" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WasTabon&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WasTabon&theme=radical" />
 </div>
 
 ---
