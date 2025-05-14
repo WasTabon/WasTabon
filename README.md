@@ -1,11 +1,16 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/Rf6x1uMzSdwAAAAd/unity-smack.gif" width="15%" />
+  <table style="border-collapse: collapse;">
+    <tr>
+      <td>
+        <h3>Hi there 👋! I am:</h3>
+        <h4>🎮 Unity Developer | 🚀 Game Enthusiast | 🧠 Always Learning</h4>
+      </td>
+      <td>
+        <img src="https://media1.tenor.com/m/Rf6x1uMzSdwAAAAd/unity-smack.gif" width="100px" />
+      </td>
+    </tr>
+  </table>
 </div>
-
-
-
-<h3 align="center">Hi there 👋! I am:</h3>
-<h4 align="center">🎮 Unity Developer | 🚀 Game Enthusiast | 🧠 Always Learning</h4>
 
 ---
 
